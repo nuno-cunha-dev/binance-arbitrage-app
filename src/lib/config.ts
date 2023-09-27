@@ -1,3 +1,3 @@
 export default {
-  binanceArbitrageApiUrl: 'http://localhost:3000',
+  binanceArbitrageApiUrl: 'https://api.arbitrage.nunocunha.dev',
 }
